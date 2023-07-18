@@ -1,0 +1,14 @@
+.contact-table {
+  margin-top: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2em;
+}
+.header-section {
+  display: flex;
+  justify-content: space-between;
+}
+table {
+  width: 100%;
+}
